@@ -1,8 +1,0 @@
-site_name: My Doc
-
-theme: 
-  name: material
-
-nav:
- - Home: index.md
- - Teste: teste.md
