@@ -1,4 +1,4 @@
-# Passo a Passo para acessar e configurar sua Máquina Virtual
+## Configurar e Acessar Remotamente sua Máquina Virtual (VM)
 ## Criação da VM 
 > O primeiro passo é criar uma conta na [Oracle Cloud](https://www.oracle.com/br/cloud/sign-in.html) é permitido ter 1 VM gratuita com até 40GB. Vou deixar como recomendação que siga o tutorial desse [video](https://youtu.be/SIkm9XWgpHA?si=W1xY3frUSj0O997e).
 
@@ -45,7 +45,7 @@ sudo -u postgres psql
 postgres=# alter user postgres encrypted password '12345';
 ```
 (Altere a senha de acesso conforme a sua preferência)
-#### Em seguida digite `\q`  para sair 
+ Em seguida digite `\q`  para sair 
 
 ## Alterando arquivo de configuração do postgres 
 1. Entre no terminal e digite :  
