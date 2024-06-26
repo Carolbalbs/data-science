@@ -119,16 +119,18 @@
     <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
             
-            <li class="nav-item" data-bs-level="1"><a href="#passo-a-passo-para-acessar-e-configurar-sua-maquina-virtual" class="nav-link">Passo a Passo para acessar e configurar sua Máquina Virtual</a>
+            <li class="nav-item" data-bs-level="2"><a href="#configurar-e-acessar-remotamente-sua-maquina-virtual-vm" class="nav-link">Configurar e Acessar Remotamente sua Máquina Virtual (VM)</a>
               <ul class="nav flex-column">
+              </ul>
+            </li>
+            
             <li class="nav-item" data-bs-level="2"><a href="#criacao-da-vm" class="nav-link">Criação da VM</a>
               <ul class="nav flex-column">
               </ul>
             </li>
+            
             <li class="nav-item" data-bs-level="2"><a href="#requisitos-de-instalacao-ssh-windows" class="nav-link">Requisitos de Instalação SSH (windows)</a>
               <ul class="nav flex-column">
-              </ul>
-            </li>
               </ul>
             </li>
             
@@ -166,7 +168,7 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-<h1 id="passo-a-passo-para-acessar-e-configurar-sua-maquina-virtual">Passo a Passo para acessar e configurar sua Máquina Virtual</h1>
+<h2 id="configurar-e-acessar-remotamente-sua-maquina-virtual-vm">Configurar e Acessar Remotamente sua Máquina Virtual (VM)</h2>
 <h2 id="criacao-da-vm">Criação da VM</h2>
 <blockquote>
 <p>O primeiro passo é criar uma conta na <a href="https://www.oracle.com/br/cloud/sign-in.html">Oracle Cloud</a> é permitido ter 1 VM gratuita com até 40GB. Vou deixar como recomendação que siga o tutorial desse <a href="https://youtu.be/SIkm9XWgpHA?si=W1xY3frUSj0O997e">video</a>.</p>
@@ -202,8 +204,8 @@
 <h4 id="o-resultado-desse-comando-sera">O resultado desse comando será:</h4>
 <pre><code class="language-bash">postgres=# alter user postgres encrypted password '12345';
 </code></pre>
-<p>(Altere a senha de acesso conforme a sua preferência)</p>
-<h4 id="em-seguida-digite-q-para-sair">Em seguida digite <code>\q</code>  para sair</h4>
+<p>(Altere a senha de acesso conforme a sua preferência)
+ Em seguida digite <code>\q</code>  para sair </p>
 <h2 id="alterando-arquivo-de-configuracao-do-postgres">Alterando arquivo de configuração do postgres</h2>
 <ol>
 <li>Entre no terminal e digite :<br />
