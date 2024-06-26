@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# Bem vindo ao Projeto DS (Desculpe a falta de criatividade rs)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Para ter acesso completo aos códigos visite o [meu repositório de projetos em dados](https://github.com/carolbalbs/data-science).
 
-## Commands
+## Projetos
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+#### Pressione `<- Previous` e ` Next ->` para navegar entre os projetos  
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Como configurar o Postgres em uma Maquina Virtual](https://carolbalbs.github.io/data-science/vm-config/req-install/)
+* [Dashboards Iterativos](https://carolbalbs.github.io/data-science/proj-dash)
+* [Analises Estatisticas e ML](https://carolbalbs.github.io/data-science/proj-reg)
+* [Projetos em PLN](https://carolbalbs.github.io/data-science/proj-pln)
