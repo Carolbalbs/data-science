@@ -3,7 +3,7 @@ Esse repositorio reúne alguns dos principais projetos que eu desenvolvi durante
 
 [![Versão do Repositório](https://img.shields.io/badge/Vers%C3%A3o-1.0.0-blue.svg)](https://github.com/carolbalbs/carolbalbs) [![Build Status](https://img.shields.io/badge/Build-ActiveDevelopment-brightgreen.svg?style=flat-square)](https://github.com/seu-usuario/seu-repositorio) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-Acesse [AQUI](carolbalbs.github.io/data-science/)
+Acesse [AQUI](https://www.github.io/data-science/)
 ## Stack's utilizadas
 
 **Data-science:** 
